@@ -1,9 +1,3 @@
-- 👋 Hi There, I’m Abhinav 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 ravellaabhinav/ravellaabhinav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,12 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I just created my github: [Git][course]!
 - 🌱 I’m currently pursuing B.Tech in CSE
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 <b>College</b> : Amrita School of Engineering
 - ⚡ <b>Languages Spoken: </b> English,Telugu
 
 
-### Connect with me:
+### - 📫 How to reach me Connect with me:
  
 
 [<img align="left" alt="Abhinav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
