@@ -32,6 +32,8 @@
 <br />
 <br />
 
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
 
 [course]:  https://github.com/
