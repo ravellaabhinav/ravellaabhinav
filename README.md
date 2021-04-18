@@ -16,6 +16,7 @@
 [<img align="left" alt="Abhinav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abhinav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abhinav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Abhinav | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br />
 
@@ -40,6 +41,7 @@
 [twitter]: https://twitter.com/RavellaAbhinav?s=08
 [instagram]: https://www.instagram.com/abhinav.ravella_/
 [linkedin]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
+[discord]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
 [webdevplaylist]: https://code.visualstudio.com/
 [jsplaylist]: https://code.visualstudio.com/
 [cssplaylist]: https://code.visualstudio.com/
