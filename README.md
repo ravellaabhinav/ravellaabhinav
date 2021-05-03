@@ -5,7 +5,7 @@
 ## I'm a Student!!
 
 - 🔭 I just created my github: [Git][course]!
-- 🌱 I’m currently pursuing B.Tech in CSE
+- 🌱 I’m currently pursuing **B.Tech in CSE**
 - 🥅 <b>College</b> : Amrita School of Engineering
 - ⚡ <b>Languages Spoken: </b> English,Telugu
 
