@@ -32,8 +32,11 @@
 [](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
 <br />
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravellaabhinav&layout=compact" alt="shubham44-code" /></p>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
+
+<br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
 
@@ -42,7 +45,7 @@
 [instagram]: https://www.instagram.com/abhinav.ravella_/
 [linkedin]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
 [discord]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
-[webdevplaylist]: https://code.visualstudio.com/
+[webdevplaylist]: /
 [jsplaylist]: https://code.visualstudio.com/
 [cssplaylist]: https://code.visualstudio.com/
 [reactplaylist]: https://code.visualstudio.com/
