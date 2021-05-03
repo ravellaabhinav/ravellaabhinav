@@ -30,15 +30,20 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-<br />
-<br />
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
+
+
+## &#x1f4c8; Stats
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=algolia)
 
 <br />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravellaabhinav&layout=compact" alt="shubham44-code" /></p>
 
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
+
+
+[![Sridhar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ravellaabhinav&theme=react-dark)](https://github.com/ravellaabhinav)
 
 [course]:  https://github.com/
 [twitter]: https://twitter.com/RavellaAbhinav?s=08
