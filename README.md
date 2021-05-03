@@ -41,9 +41,6 @@
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
 
-
-[![Sridhar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ravellaabhinav&theme=react-dark)](https://github.com/ravellaabhinav)
-
 [course]:  https://github.com/
 [twitter]: https://twitter.com/RavellaAbhinav?s=08
 [instagram]: https://www.instagram.com/abhinav.ravella_/
