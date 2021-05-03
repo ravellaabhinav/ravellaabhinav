@@ -32,9 +32,10 @@
 [](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
 <br />
 <br />
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravellaabhinav&layout=compact" alt="shubham44-code" /></p>
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
 
 <br />
 <br />
