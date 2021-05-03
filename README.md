@@ -33,8 +33,10 @@
 <br />
 <br />
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
+
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravellaabhinav&layout=compact" alt="shubham44-code" /></p>
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravellaabhinav&show_icons=true&theme=chartreuse-dark)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
 
