@@ -39,6 +39,7 @@
 
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
+<center><a href="https://github.com/ravellaabhinav?tab=followers" ><img src="https://img.shields.io/github/followers/ravellaabhinav?label=Followers&style=social" alt="GitHub Badge"></a></center>
 
 [course]:  https://github.com/
 [twitter]: https://twitter.com/RavellaAbhinav?s=08
