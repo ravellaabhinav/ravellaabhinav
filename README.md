@@ -13,9 +13,7 @@
 <br />
   
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<p align="left">
 
-<p align="left"> <a href="https://twitter.com/ravella_abhinav" target="blank"><img src="https://img.shields.io/twitter/follow/ravella_abhinavm?logo=twitter&style=for-the-badge" alt="ravellaabhinav" /></a> </p>
 <a href = "https://www.linkedin.com/in/ravella-abhinav-9214721bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/akhilesh1m"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/abhinav.ravella_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
