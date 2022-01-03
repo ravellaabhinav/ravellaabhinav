@@ -51,11 +51,3 @@
 <center><a href="https://github.com/ravellaabhinav?tab=followers" ><img src="https://img.shields.io/github/followers/ravellaabhinav?label=Followers&style=social" alt="GitHub Badge"></a></center>
 
 [course]:  https://github.com/ravellaabhinav
-[twitter]: https://twitter.com/RavellaAbhinav?s=08
-[instagram]: https://www.instagram.com/abhinav.ravella_/
-[linkedin]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
-[discord]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
-[webdevplaylist]: /
-[jsplaylist]: https://code.visualstudio.com/
-[cssplaylist]: https://code.visualstudio.com/
-[reactplaylist]: https://code.visualstudio.com/
