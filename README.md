@@ -1,10 +1,10 @@
-# Hi There, I'm Abhinav !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi There, I'm Abhinav !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="160px" height="50px">
 
 
 
 ## I'm a Student!!
 
-- 🔭 I just created my github: [Git][course]!
+- 🔭 I just created my github: [Git][#]!
 - 🌱 I’m currently pursuing **B.Tech in CSE**
 - 🥅 <b>**College**</b> : Amrita School of Engineering
 - ⚡ <b>Languages Spoken: </b> English, Telugu
@@ -12,7 +12,7 @@
 
 <br />
   
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="160px" height="50px">
 
 <a href = "https://www.linkedin.com/in/ravella-abhinav-9214721bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ravella_abhinav"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
