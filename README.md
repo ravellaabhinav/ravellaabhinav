@@ -16,7 +16,7 @@
 
 <a href = "https://www.linkedin.com/in/ravella-abhinav-9214721bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ravella_abhinav"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abhinav.ravella_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/abhinav.ravella/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discordapp.com/users/714014832042704919/"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
 
 
