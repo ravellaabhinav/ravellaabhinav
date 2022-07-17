@@ -12,7 +12,7 @@
 
 <br />
   
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="160px" height="50px">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="110px" height="50px">
 
 <a href = "https://www.linkedin.com/in/ravella-abhinav-9214721bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ravella_abhinav"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
