@@ -4,13 +4,12 @@
 
 ## I'm a Student!!
 
-- 🔭 Exploring new technologies: [Git][course]!
+- 🔭 Exploring new technologies: [Angular][course]!
 - 🌱 I’m currently pursuing **B.Tech in CSE**
 - 🥅 <b>**College**</b> : Amrita School of Engineering
 - ⚡ <b>Languages Spoken: </b> English, Telugu
 
-
-<br />
+<br/>
   
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="110px" height="50px">
 
@@ -19,9 +18,7 @@
 <a href = "https://www.instagram.com/abhinav.ravella/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discordapp.com/users/714014832042704919/"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
 
-
 ### Languages and Tools:
-
   
 <p align="left">  
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
