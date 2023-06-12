@@ -43,8 +43,16 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravellaabhinav&layout=compact" alt="abhi" /></p>
 
 <br />
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravellaabhinav" alt="/" /> </p>
-
+<!--
 <center><a href="https://github.com/ravellaabhinav?tab=followers" ><img src="https://img.shields.io/github/followers/ravellaabhinav?label=Followers&style=social" alt="Abhi"></a></center>
+-->
 
-[course]:  https://github.com/ravellaabhinav
+<!--[course]:  https://github.com/ravellaabhinav -->
+
+<!--<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ravellaabhinav/count.svg" />
+</p>
+-->
