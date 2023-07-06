@@ -2,15 +2,25 @@
 
 
 
-## I'm a Student!!
+#### I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
 
-- 🔭 Exploring new technologies: [Angular][course]!
-- 🌱 I’m currently pursuing **B.Tech in CSE**
-- 🥅 <b>**College**</b> : Amrita School of Engineering
-- ⚡ <b>Languages Spoken: </b> English, Telugu
+#### I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 
-<br/>
-  
+## Fun Fact 🎈:
+
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 🥅 <b>**College**</b> : Amrita School of Engineering.<br/>
+• 📫 Reach me out <a href="https://www.instagram.com/abhinav.ravella"><b>@abhinav.ravella</b></a><br/>
+</span>
+
+<br />
+<br />
+
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="110px" height="50px">
 
 <a href = "https://www.linkedin.com/in/ravella-abhinav-9214721bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
